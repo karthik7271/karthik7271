@@ -101,12 +101,12 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=karthik7271&show_icons=true&theme=tokyonight" alt="GitHub Stats"></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=karthik7271&theme=tokyonight" alt="GitHub Streak"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=karthik7271&show_icons=true&theme=ocean-gradient&border_radius=30" alt="GitHub Stats"></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=karthik7271&theme=ocean-gradient&border_radius=30" alt="GitHub Streak"></td>
   </tr>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik7271&theme=tokyonight" alt="Top Languages"></td>
-    <td><img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik7271&theme=ocean-gradient&border_radius=30" alt="Top Languages"></td>
+    <td><img src="https://readme-jokes.vercel.app/api?theme=ocean-gradient&border_radius=30" alt="Jokes Card"></td>
   </tr>
 </table>
 
