@@ -1,84 +1,86 @@
-<!-- 
-Hi there! This is a template for your GitHub Profile README.
-To make it your own, you'll need to:
-1. Replace placeholder text like `[Your Name]` and `[your-linkedin-username]`.
-2. Update the GitHub stats links with your username.
-3. Consider creating a banner image and updating the link. You can use a tool like Canva for this.
-4. Pin your best projects to your profile so they appear here automatically.
--->
-
-<!-- BANNER IMAGE -->
+<!-- Banner Section -->
 <p align="center">
-  <img src="https://path-to-your-banner-image.com/banner.png" alt="Data Science Banner">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=👋+Hi+there!+I'm+a+Data+Science+Enthusiast;🚀+Machine+Learning+%7C+AI+%7C+NLP+%7C+CV+Specialist;💡+Building+Intelligent+Solutions+Every+Day" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
-<h3 align="center">A Data Scientist passionate about transforming complex data into actionable insights and intelligent solutions.</h3>
-
-<br>
-
-<!-- SOCIAL LINKS & BADGES -->
 <p align="center">
-  <a href="https://linkedin.com/in/[your-linkedin-username]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.kaggle.com/[your-kaggle-username]" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-  </a>
-  <a href="mailto:[your-email@example.com]">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="120" alt="Data Science GIF"/>
 </p>
 
----
+## 🧑‍💻 About Me
 
-### 🚀 About Me
+- **Passionate Data Scientist** with expertise in **Machine Learning, Deep Learning, NLP, Computer Vision, and Data Engineering**
+- Love transforming raw data into actionable insights and deploying intelligent solutions
+- Always exploring the latest in AI, cloud, and open-source
 
-I am a data-driven professional with a deep expertise in machine learning, deep learning, and natural language processing[memory]. My work involves building end-to-end data products, from initial data preprocessing and exploratory analysis to deploying sophisticated models[5]. I have a strong foundation in high-performance model training, using tools like PyTorch for GPU-accelerated tasks, and an interest in advanced graph analytics with Neo4j and GraphRAG[8][10][memory]. I thrive on solving real-world challenges and am always eager to learn and apply new technologies to drive innovation.
+## 🛠️ My Tech Stack
 
----
-
-### 🛠️ My Tech Stack
-
-Here are the tools and technologies I work with. Icons are a great way to visually showcase your skills[2].
-
-| Category                  | Technologies                                                                                                                                                                                                                                                                                         |
-| ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Languages & Databases** | <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://neo4j.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" alt="neo4j" width="40" height="40"/> </a></p> |
-| **ML & Deep Learning**    | <p align="left"> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a> <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a></p> |
-| **GenAI & LLMs**          | <p align="left"> <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/brand/logo-wordmark-dark.svg" alt="langchain" width="120"/></a> <a href="https://www.trychroma.com/" target="_blank" rel="noreferrer"><img src="https://www.trychroma.com/logo.png" alt="chromadb" width="120"/></a> </p> |
-| **Data Viz & EDA**        | <p align="left"> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> </p> |
-| **Tools & Platforms**     | <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/> </a> </p> |
-
----
-
-### 📊 Core Competencies
-
--   🧠 **Machine Learning & Deep Learning:** Designing, training, and deploying predictive models using **Scikit-Learn**, **PyTorch**, and **Keras**.
--   👁️ **Computer Vision:** Implementing algorithms for image recognition and object detection.
--   📝 **Natural Language Processing (NLP):** Building and fine-tuning language models for various applications using modern frameworks like **LangChain** and **LangGraph**.
--   📈 **Data Visualization & EDA:** Creating insightful and compelling visual narratives from data using **Seaborn** and conducting thorough exploratory data analysis with **Pandas**.
--   🔗 **Graph Analytics:** Leveraging **Neo4j** and **GraphRAG** for complex network analysis and knowledge graph implementation[10][memory].
--   ⚙️ **Model Optimization:** Automating hyperparameter tuning with tools like **Optuna** and **FLAML** to enhance model performance and efficiency[9][memory].
-
----
-
-### 🏆 GitHub Stats & Activity
-
-Displaying your GitHub stats is a great way to showcase your activity and coding habits[2][4].
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&langs_count=8&theme=dracula"/>
+### **Languages & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-FAF400?style=for-the-badge&logo=jupyter&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-f9a03c?style=for-the-badge&logo=huggingface&logoColor=white"/>
 </p>
 
----
+### **Core Libraries & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Optuna-4E8CEE?style=for-the-badge&logo=optuna&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FLAML-0072C6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangGraph-FFB300?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Claude-FFD700?style=for-the-badge"/>
+</p>
 
-### ✨ Pinned Projects
+### **Databases & Vector Stores**
+<p>
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChromaDB-00BFFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ArangoDB-DDE072?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pinecone-6E6E6E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangSmith-FF6F61?style=for-the-badge"/>
+</p>
 
-A great data science portfolio focuses on a few high-quality projects that demonstrate your ability to solve real-world problems[3][5]. Below are some of the projects I'm most proud of.
+## 🚀 What I Do
 
-<!-- 
-To showcase your projects, pin the repositories to your GitHub profile. 
-They will automatically appear here. Make sure each project's own README is detailed and well-structured! [1][5]
--->
+- **Machine Learning & Deep Learning:** Building robust predictive models and neural networks
+- **NLP & Computer Vision:** From chatbots to image recognition, I love solving real-world problems
+- **Data Visualization & EDA:** Turning data into compelling stories with Seaborn, Matplotlib, and more
+- **Graph Databases:** Advanced knowledge with Neo4j, ChromaDB, and ArangoDB for knowledge graphs and RAG
+- **MLOps & Cloud:** Deploying scalable solutions on AWS, using tools like Hugging Face and Optuna
+- **Experiment Tracking & Optimization:** Automated hyperparameter tuning with Optuna/FLAML
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak"/>
+</p>
+
+## 🌟 Let's Connect!
+
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://huggingface.co/YOUR-HF-USERNAME"><img src="https://img.shields.io/badge/HuggingFace-f9a03c?style=for-the-badge&logo=huggingface&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="120" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="120" alt="Working GIF"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" alt="AI GIF"/>
+</p>
+
+> _"Turning data into decisions, one model at a time."_
