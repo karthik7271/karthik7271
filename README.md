@@ -102,18 +102,18 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=karthik7271&show_icons=true&theme=telegram-gradient&border_radius=30" alt="GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=karthik7271&show_icons=true&theme=gotham&border_radius=30" alt="GitHub Stats">
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthik7271&theme=telegram-gradient&border_radius=30" alt="GitHub Streak">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthik7271&theme=gotham&border_radius=30" alt="GitHub Streak">
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik7271&theme=telegram-gradient&border_radius=30" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik7271&theme=gotham&border_radius=30" alt="Top Languages">
     </td>
     <td>
-      <img src="https://readme-jokes.vercel.app/api?theme=telegram-gradient&border_radius=30" alt="Jokes Card">
+      <img src="https://readme-jokes.vercel.app/api?theme=gotham&border_radius=30" alt="Jokes Card">
     </td>
   </tr>
 </table>
