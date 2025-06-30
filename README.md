@@ -1,7 +1,7 @@
 <p align="center">
-  <img width="200" src="https://media.licdn.com/dms/image/v2/C5112AQEZe_oL3yvQFw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1587486698482?e=2147483647&v=beta&t=p28krH0tUKVO9Kuejhm-u1AnJEJ9DIFsP4SqYxw-C10" alt="Aizen's Profile Picture">
-
+  <img style="width:100%; height:120px; object-fit:cover;" src="[https://media.licdn.com/dms/image/v2/C5112AQEZe_oL3yvQFw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1587486698482?e=2147483647&v=beta&t=p28krH0tUKVO9Kuejhm-u1AnJEJ9DIFsP4SqYxw-C10](https://img.freepik.com/premium-vector/neural-network-concept-connected-cells-with-links-high-technology-process-abstract-futuristic-background_118331-67.jpg)" alt="Aizen's Profile Picture">
 </p>
+
 
 <h1 align="center">
   Hey there, Fellow &lt;Developers/&gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
