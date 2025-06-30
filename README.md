@@ -1,5 +1,5 @@
 <p>
-  <img style="width:100%; height:120px; object-fit:cover;" src="file:///Users/karthikragulan/Downloads/github-header-image.png" alt="Aizen's Profile Picture">
+  ![CHEESE!](file:///Users/karthikragulan/Downloads/github-header-image.png)
 </p>
 
 <h1 align="center"><strong><span style="font-size:48px;">Welcome to my GitHub Profile! 🚀✨</span></strong></h1>
