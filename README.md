@@ -1,5 +1,5 @@
 <p align="center">
-  <img style="width:100%; height:120px; object-fit:cover;" src="[[https://media.licdn.com/dms/image/v2/C5112AQEZe_oL3yvQFw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1587486698482?e=2147483647&v=beta&t=p28krH0tUKVO9Kuejhm-u1AnJEJ9DIFsP4SqYxw-C10](https://img.freepik.com/premium-vector/neural-network-concept-connected-cells-with-links-high-technology-process-abstract-futuristic-background_118331-67.jpg)](https://www.nextplatform.com/wp-content/uploads/2019/01/ab_networks_network_8uds-1030x438.jpg)" alt="Aizen's Profile Picture">
+  <img style="width:100%; height:120px; object-fit:cover;" src="[https://media.licdn.com/dms/image/v2/C5112AQEZe_oL3yvQFw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1587486698482?e=2147483647&v=beta&t=p28krH0tUKVO9Kuejhm-u1AnJEJ9DIFsP4SqYxw-C10](https://img.freepik.com/premium-vector/neural-network-concept-connected-cells-with-links-high-technology-process-abstract-futuristic-background_118331-67.jpg)](https://www.nextplatform.com/wp-content/uploads/2019/01/ab_networks_network_8uds-1030x438.jpg)" alt="Aizen's Profile Picture">
 </p>
 
 
