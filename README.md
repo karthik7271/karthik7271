@@ -5,7 +5,7 @@
 
 
 <h1 align="center">
-  Hey there;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  Hey there;! <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="30px">
 </h1>
 
 <p align="center">
@@ -76,17 +76,21 @@
   <tr>
     <td><b>Vector & Graph DBs</b></td>
     <td>
-      <img width="32px" src="data:image/png;base64,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"> Neo4j
+      <img width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9sTNL2LWtVPMSkovMt1Xj5viuxLRYZlAG5A&s"> Neo4j
       <img width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCqd_XPfXSx4LU6aBoVWObLz0ShODYzp9Z6Q&s"> ChromaDB
       <img width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjKHxiSiI8pWkajYlus9q-Il7vTQByplDVpw&s"> ArangoDB
       <img width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJT3e4pOjYxOEfGjpM7Bezb0i9BSFVWphPAQ&s"> Pinecone
     </td>
   </tr>
   <tr>
-    <td><b>AutoML & Optimization</b></td>
+    <td><b>LLM Providers</b></td>
     <td>
-      <img width="32px" src="https://avatars.githubusercontent.com/u/29887337?s=200&v=4"> Optuna
-      <img width="32px" src="https://avatars.githubusercontent.com/u/67092935?s=200&v=4"> Flaml
+      <img width="32px" src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.49.0/files/dark/openai.png"> OpenAI
+      <img width="32px" src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.49.0/files/dark/claude-color.png"> Claude
+      <img width="32px" src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.49.0/files/dark/meta-color.png"> Meta
+      <img width="32px" src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.49.0/files/dark/mistral-color.png"> Mistral
+      <img width="32px" src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.49.0/files/dark/cohere-color.png"> Coheree
+      <img width="32px" src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.49.0/files/dark/gemini-color.png"> Gemini(Google)
     </td>
   </tr>
 </table>
