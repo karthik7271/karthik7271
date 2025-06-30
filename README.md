@@ -2,17 +2,6 @@
   <img style="width:100%; height:120px; object-fit:cover;" src="https://media.licdn.com/dms/image/v2/C5616AQGEACt639I0Vw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1517535491727?e=2147483647&v=beta&t=9l7ezeShdMTNKCaqb7DdJ-pp1hEdt_MRyKFAWjFgxTY" alt="Aizen's Profile Picture">
 </p>
 
-
-
-<h1 align="center">
-  Hey there;! <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="30px">
-</h1>
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=karthik7271.karthik7271" alt="Profile views">
-  <a href="https://github.com/karthik7271"><img src="https://img.shields.io/github/followers/karthik7271?label=Follow&style=social" alt="Github"></a>
-</p>
-
 <div align="center" size="20px">
   <b>Hi! I'm Karthik Ragulan, a passionate ML Engineer, and AI Enthusiast.</b> <br>
   <i>Thanks for stopping by my GitHub profile! 🚀</i>
