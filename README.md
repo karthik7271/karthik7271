@@ -4,11 +4,6 @@
 
 <h1 align="center"><strong><span style="font-size:48px;">Welcome to my GitHub Profile! 🚀✨</span></strong></h1>
 
-
-<div align="center" size="20px">
-  <b>Hi! I'm Karthik Ragulan, a passionate ML Engineer, and AI Enthusiast.</b> <br>
-</div>
-
 <h2> About Me </h2>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
 
@@ -110,24 +105,44 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik7271&theme=gotham&border_radius=30" alt="Top Languages">
     </td>
     <td>
-      <img src="github-snake.svg" alt="GitHub Contribution Snake">
-    </td>
+      <img src="https://github-profile-trophy.vercel.app/?username=karthik7271&theme=onestar&no-frame=true&column=4" alt="Trophies"/>
   </tr>
 </table>
 
 
-<h2> 🤝 Connect with Me </h2>
+<h2 align="center" > 🤝 Connect with Me </h2>
 
-<a href="https://www.linkedin.com/in/your-linkedin"><img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"></a>
-<a href="https://twitter.com/your-twitter"><img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"></a>
-<a href="https://medium.com/@your-medium"><img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"></a>
-<a href="https://github.com/karthik7271"><img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"></a>
-<a href="http://your-portfolio.com/"><img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/karthik-ragulan-14b94024b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+   <a href="Port">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/karthik_ragulan/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:karthikr90637@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/karthikragulan">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Karthik_Ragulan/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+  <a href="https://codeforces.com/profile/Aizen_07">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
+  </a>
+   <a href="https://devpost.com/karthikr90637?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
+    <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" />
+  </a>
+ 
+</p>
 
 <br>
 
 ---
-
-<p align="center">
-  <i>Let's build the future of AI together!</i>
-</p>
