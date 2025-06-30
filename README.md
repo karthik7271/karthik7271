@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" src="[https://static.wikia.nocookie.net/bleach/images/7/77/Sosuke_Aizen_Infobox_Anime.png](https://github.com/account)" alt="Aizen's Profile Picture">
+  <img width="200" src="https://media.licdn.com/dms/image/v2/C5112AQEZe_oL3yvQFw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1587486698482?e=2147483647&v=beta&t=p28krH0tUKVO9Kuejhm-u1AnJEJ9DIFsP4SqYxw-C10" alt="Aizen's Profile Picture">
 
 </p>
 
