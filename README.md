@@ -110,7 +110,10 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik7271&theme=gotham&border_radius=30" alt="Top Languages">
     </td>
     <td>
-      <img src="https://github.com/karthik7271/karthik7271/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+      <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
     </td>
   </tr>
 </table>
