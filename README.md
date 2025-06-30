@@ -81,9 +81,8 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="120" alt="Coding GIF"/>
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="120" alt="Working GIF"/>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" alt="AI GIF"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=karthik7271&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthik7271&theme=radical" alt="GitHub Streak"/>
 </p>
 
 > _"Turning data into decisions, one model at a time."_
