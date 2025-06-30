@@ -39,7 +39,9 @@
       <img width="32px" src="https://techstack-generator.vercel.app/mysql-icon.svg">Mysql
       <img width="32px" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/jupyter_notebook.png"> Jupyter
       <img width="32px" src="https://techstack-generator.vercel.app/github-icon.svg"> GitHub
-    </td>
+      <img width="32px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png
+    </td>"> Git
+      
   </tr>
   <tr>
     <td><b>Data Science & AI</b></td>
