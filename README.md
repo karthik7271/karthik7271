@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/05f3d85b-4cb0-4c60-ab80-486fa24a23d8)<p align="center">
+<p>
   <img style="width:100%; height:120px; object-fit:cover;" src="https://media.licdn.com/dms/image/v2/C5616AQGEACt639I0Vw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1517535491727?e=2147483647&v=beta&t=9l7ezeShdMTNKCaqb7DdJ-pp1hEdt_MRyKFAWjFgxTY" alt="Aizen's Profile Picture">
 </p>
 
