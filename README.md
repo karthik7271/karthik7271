@@ -1,4 +1,4 @@
-<p align="center">
+![image](https://github.com/user-attachments/assets/05f3d85b-4cb0-4c60-ab80-486fa24a23d8)<p align="center">
   <img style="width:100%; height:120px; object-fit:cover;" src="https://media.licdn.com/dms/image/v2/C5616AQGEACt639I0Vw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1517535491727?e=2147483647&v=beta&t=9l7ezeShdMTNKCaqb7DdJ-pp1hEdt_MRyKFAWjFgxTY" alt="Aizen's Profile Picture">
 </p>
 
@@ -35,10 +35,10 @@
   <tr>
     <td><b>Core Skills</b></td>
     <td>
-      <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"> Python
-      <img width="32px" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/mysql.png"> SQL
+      <img width="32px" src="https://techstack-generator.vercel.app/python-icon.svg"> Python
+      <img width="32px" src="https://techstack-generator.vercel.app/mysql-icon.svg">Mysql
       <img width="32px" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/jupyter_notebook.png"> Jupyter
-      <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"> GitHub
+      <img width="32px" src="https://techstack-generator.vercel.app/github-icon.svg"> GitHub
     </td>
   </tr>
   <tr>
@@ -46,7 +46,8 @@
     <td>
       <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg"> Scikit-Learn
       <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg"> PyTorch
-      <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/keras.svg"> Keras
+      <img width="32px" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png"> Tensorflow
+      <img width="32px" src=""> Keras
       <img width="32px" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/numpy.png"> Numpy
       <img width="32px" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/pandas.png"> Pandas
       <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/seaborn.svg"> Seaborn
@@ -55,7 +56,7 @@
   <tr>
     <td><b>ML Ops & Optimization</b></td>
     <td>
-      <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg"> AWS
+      <img width="32px" src="https://techstack-generator.vercel.app/aws-icon.svg"> AWS
       <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg"> Anaconda
       <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> VS Code
       <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg"> Google Colab
