@@ -39,8 +39,7 @@
       <img width="32px" src="https://techstack-generator.vercel.app/mysql-icon.svg">Mysql
       <img width="32px" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/jupyter_notebook.png"> Jupyter
       <img width="32px" src="https://techstack-generator.vercel.app/github-icon.svg"> GitHub
-      <img width="32px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png
-    </td>"> Git
+      <img width="32px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png"> Git
       
   </tr>
   <tr>
@@ -52,7 +51,7 @@
       <img width="32px" src=""> Keras
       <img width="32px" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/numpy.png"> Numpy
       <img width="32px" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/pandas.png"> Pandas
-      <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/seaborn.svg"> Seaborn
+      <img width="32px" src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png"> Seaborn
     </td>
   </tr>
   <tr>
@@ -61,8 +60,8 @@
       <img width="32px" src="https://techstack-generator.vercel.app/aws-icon.svg"> AWS
       <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg"> Anaconda
       <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> VS Code
-      <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg"> Google Colab
-      <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg"> Kaggle
+      <img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1280px-Google_Colaboratory_SVG_Logo.svg.png"> Google Colab
+      <img width="32px" src="https://www.kaggle.com/static/images/logos/kaggle-logo-gray-300.png"> Kaggle
     </td>
   </tr>
   <tr>
