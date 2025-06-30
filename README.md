@@ -64,10 +64,13 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthik7271&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthik7271&theme=radical" alt="GitHub Streak"/>
-</p>
+<div align="center" style="background: linear-gradient(135deg, #ff00cc, #333399); padding: 20px; border-radius: 15px;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=karthik7271&show_icons=true&theme=radical" alt="GitHub Stats" style="margin: 10px;"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthik7271&theme=radical" alt="GitHub Streak" style="margin: 10px;"/>
+
+</div>
 
 ## 🌟 Let's Connect!
 
