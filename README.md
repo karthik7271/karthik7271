@@ -1,5 +1,5 @@
 <p>
-  <img style="width:100%; height:120px; object-fit:cover;" src="https://media.licdn.com/dms/image/v2/C5616AQGEACt639I0Vw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1517535491727?e=2147483647&v=beta&t=9l7ezeShdMTNKCaqb7DdJ-pp1hEdt_MRyKFAWjFgxTY" alt="Aizen's Profile Picture">
+  <img style="width:100%; height:120px; object-fit:cover;" src="file:///Users/karthikragulan/Downloads/github-header-image.png" alt="Aizen's Profile Picture">
 </p>
 
 <h1 align="center"><strong><span style="font-size:48px;">Welcome to my GitHub Profile! 🚀✨</span></strong></h1>
@@ -7,7 +7,6 @@
 
 <div align="center" size="20px">
   <b>Hi! I'm Karthik Ragulan, a passionate ML Engineer, and AI Enthusiast.</b> <br>
-  <i>Thanks for stopping by my GitHub profile! 🚀</i>
 </div>
 
 <h2> About Me </h2>
