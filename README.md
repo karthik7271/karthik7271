@@ -24,7 +24,7 @@
       <img width="32px" src="https://techstack-generator.vercel.app/python-icon.svg"> Python
       <img width="32px" src="https://techstack-generator.vercel.app/mysql-icon.svg">Mysql
       <img width="32px" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/jupyter_notebook.png"> Jupyter
-      <img width="32px" src="https://techstack-generator.vercel.app/github-icon.svg"> GitHub
+      <img width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cmmOu4xUkNNZlk-qh4r47i9n6R1mLQD-3Q&s"> GitHub
       <img width="32px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png"> Git
       
   </tr>
@@ -34,14 +34,14 @@
       <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg"> Scikit-Learn
       <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg"> PyTorch
       <img width="32px" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png"> Tensorflow
-      <img width="32px" src=""> Keras
+      <img width="32px" src="https://raw.githubusercontent.com/valohai/ml-logos/d8dfb916e50a93a41f3b1ed2ca7bd3dbc77030a2/keras.svg"> Keras
       <img width="32px" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/numpy.png"> Numpy
       <img width="32px" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/pandas.png"> Pandas
       <img width="32px" src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png"> Seaborn
     </td>
   </tr>
   <tr>
-    <td><b>ML Ops & Optimization</b></td>
+    <td><b>Platform Providers</b></td>
     <td>
       <img width="32px" src="https://techstack-generator.vercel.app/aws-icon.svg"> AWS
       <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg"> Anaconda
@@ -56,7 +56,9 @@
       <img width="32px" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg"> Hugging Face
       <img width="32px" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/langchain-ipuhh4qo1jz5ssl4x0g2a.png/langchain-dp1uxj2zn3752pntqnpfu2.png?_a=DATAdtAAZAA0"> Langchain
       <img width="32px" src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.49.0/files/light/langgraph-color.png"> Langgraph
-      <img width="32px" src="[https://avatars.githubusercontent.com/u/108233011?s=200&v=4](https://registry.npmmirror.com/@lobehub/icons-static-png/1.49.0/files/dark/langsmith-color.png)"> Langsmith
+      <img width="32px" src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.49.0/files/dark/langsmith-color.png"> Langsmith
+      <img width="32px" src="ollama.png"> Ollama
+      <img width="32px" src="unsloth.jpeg"> Ollama
     </td>
   </tr>
   <tr>
