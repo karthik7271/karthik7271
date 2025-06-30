@@ -5,7 +5,7 @@
 
 
 <h1 align="center">
-  Hey there, Fellow &lt;Developers/&gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  Hey there;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
 
 <p align="center">
@@ -14,7 +14,7 @@
 </p>
 
 <div align="center" size="20px">
-  <b>Hi! I'm Aditya, a passionate Data Scientist, ML Engineer, and AI Enthusiast.</b> <br>
+  <b>Hi! I'm Karthik Ragulan, a passionate ML Engineer, and AI Enthusiast.</b> <br>
   <i>Thanks for stopping by my GitHub profile! 🚀</i>
 </div>
 
@@ -36,8 +36,8 @@
     <td><b>Core Skills</b></td>
     <td>
       <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"> Python
-      <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg"> SQL
-      <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jupyter.svg"> Jupyter
+      <img width="32px" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/mysql.png"> SQL
+      <img width="32px" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/jupyter_notebook.png"> Jupyter
       <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"> GitHub
     </td>
   </tr>
@@ -47,8 +47,8 @@
       <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg"> Scikit-Learn
       <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg"> PyTorch
       <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/keras.svg"> Keras
-      <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/numpy.svg"> Numpy
-      <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pandas.svg"> Pandas
+      <img width="32px" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/numpy.png"> Numpy
+      <img width="32px" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/pandas.png"> Pandas
       <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/seaborn.svg"> Seaborn
     </td>
   </tr>
