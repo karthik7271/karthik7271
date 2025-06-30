@@ -1,5 +1,6 @@
 <p align="center">
-  <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
+  <img width="200" src="https://static.wikia.nocookie.net/bleach/images/7/77/Sosuke_Aizen_Infobox_Anime.png" alt="Aizen's Profile Picture">
+
 </p>
 
 <h1 align="center">
@@ -7,8 +8,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=YourUsername.YourUsername" alt="Profile views">
-  <a href="https://github.com/YourUsername"><img src="https://img.shields.io/github/followers/YourUsername?label=Follow&style=social" alt="Github"></a>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=karthik7271.karthik7271" alt="Profile views">
+  <a href="https://github.com/karthik7271"><img src="https://img.shields.io/github/followers/karthik7271?label=Follow&style=social" alt="Github"></a>
 </p>
 
 <div align="center" size="20px">
@@ -100,11 +101,11 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats"></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight" alt="GitHub Streak"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=karthik7271&show_icons=true&theme=tokyonight" alt="GitHub Stats"></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=karthik7271&theme=tokyonight" alt="GitHub Streak"></td>
   </tr>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&theme=tokyonight" alt="Top Languages"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik7271&theme=tokyonight" alt="Top Languages"></td>
     <td><img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card"></td>
   </tr>
 </table>
@@ -114,7 +115,7 @@
 <a href="https://www.linkedin.com/in/your-linkedin"><img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"></a>
 <a href="https://twitter.com/your-twitter"><img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"></a>
 <a href="https://medium.com/@your-medium"><img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"></a>
-<a href="https://github.com/YourUsername"><img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"></a>
+<a href="https://github.com/karthik7271"><img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"></a>
 <a href="http://your-portfolio.com/"><img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"></a>
 
 <br>
