@@ -2,7 +2,7 @@
   <img style="width:100%; height:120px; object-fit:cover;" src="https://media.licdn.com/dms/image/v2/C5616AQGEACt639I0Vw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1517535491727?e=2147483647&v=beta&t=9l7ezeShdMTNKCaqb7DdJ-pp1hEdt_MRyKFAWjFgxTY" alt="Aizen's Profile Picture">
 </p>
 
-<p align="center"><strong><span style="font-size:24px;">Welcome to my GitHub Profile! 🚀✨</span></strong></p>
+<p align="center"><strong><span style="font-size:42px;">Welcome to my GitHub Profile! 🚀✨</span></strong></p>
 
 
 <div align="center" size="20px">
