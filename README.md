@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="github-header-image.png" alt="Banner Image" width="800"/>
-</p>
+
 
 <h1 align="center"><strong><span style="font-size:48px;">Welcome to my GitHub Profile! 🚀✨</span></strong></h1>
 
